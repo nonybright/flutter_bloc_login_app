@@ -9,4 +9,4 @@ For help getting started with Flutter, view our online
 
 ## Screenshot 
 
-[flutter_bloc_login_app_screenshot](screenshot/flutter_bloc_login_app.gif).
+![flutter_bloc_login_app_screenshot](screenshot/flutter_bloc_login_app.gif)
